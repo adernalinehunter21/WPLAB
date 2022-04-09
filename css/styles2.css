@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+.container{
+    background-color:white;
+    width:100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+=======
 body {
   background-color: #fffffa;
 }
@@ -52,5 +61,9 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
+<<<<<<< HEAD:css/styles.css
   width: 100%;
+=======
+>>>>>>> c73b5c201d11ae2cf6341372944f8114c18f0fe0
+>>>>>>> 613869aa836f50fa9bfbab6ec4c179c0e96565d2:css/styles2.css
 }
